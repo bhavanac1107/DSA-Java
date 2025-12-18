@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Arrays;
 class Max_value{
     public static void main(String[] args){

@@ -1,7 +1,10 @@
+package LinearSearch;
+
 public class EvenDigits {
     public static void main(String[] args){
     int[] nums={12,345,2,6,7896};
     System.out.println(digits(457645));
+     System.out.println(findfindNumbers(nums));
     }
     static int findfindNumbers(int[] nums) {
         int count=0;

@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Arrays;
 public class SwapAndReverse{
     public static void main(String[] args){
